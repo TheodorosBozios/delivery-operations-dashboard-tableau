@@ -1,0 +1,10 @@
+# Tableau temporary / local files
+*.twb~*
+*.tmp
+*.hyper.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
