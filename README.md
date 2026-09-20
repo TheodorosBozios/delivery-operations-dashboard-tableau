@@ -1,6 +1,6 @@
-# Delivery Operations Dashboard | Tableau
+# Delivery Operations Dashboard, Tableau
 
-Interactive Tableau dashboard focused on delivery operations performance — analyzing order volume, average delivery time, and performance by city.
+Interactive Tableau dashboard focused on delivery operations performance analyzing order volume, average delivery time, and performance by city.
 
 ## 📥 Download the Dashboard
 
@@ -46,7 +46,6 @@ This dashboard helps monitor and analyze delivery operations with a clear operat
 2. Open it with **Tableau Desktop** or **Tableau Public**
 3. The packaged workbook includes the data extract, so no extra connections are required
 
-## Portfolio Description (for CV)
 
-**Delivery Operations Dashboard | Tableau**  
-Built an interactive Tableau dashboard to monitor delivery operations performance. Analyzed order volume, average delivery times, and city-level performance with clear KPIs and geographic visualizations to support operational decision-making.
+**Delivery Operations Dashboard, Tableau**  
+Built an interactive Tableau dashboard to monitor delivery operations performance. Analyzed order volume, average delivery times and city-level performance with clear KPIs and geographic visualizations to support operational decision-making.
